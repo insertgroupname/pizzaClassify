@@ -1,6 +1,7 @@
 # pizzaClassify
 make folder name 'content'
 extract dataset in there
+
 1.https://www.kaggle.com/kmader/food41
 2.http://pizzagan.csail.mit.edu/
 
